@@ -1,2 +1,2 @@
-# gitscience-site
-gitscience site repo ye
+# GitScience
+***All information in*** [**GtScience/GtScience/README.md**](GtScience/README.md)
